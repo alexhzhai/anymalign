@@ -1,0 +1,2 @@
+This beer is good.	C'est une bonne bière.	Dieses Bier ist gut.	-	1.000000 1.000000 1.000000	920526
+I need a beer.	Il me faut une bière.	Ich muss ein Bier trinken.	-	1.000000 1.000000 1.000000	918844
